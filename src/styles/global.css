@@ -49,3 +49,26 @@ img,
   font-size: 3rem;
   user-select: none;
 }
+
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.5rem 0;
+}
+
+.katex-display > .katex {
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+.katex {
+  font-size: 1.1em !important;
+}
+
+@media screen and (max-width: 768px) {
+  .katex {
+    font-size: 1em !important;
+  }
+}
