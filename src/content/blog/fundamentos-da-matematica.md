@@ -1,5 +1,5 @@
 ---
-title: "Fundamentos da Matemática"
+title: "Fundamentos da Matemática em Português"
 pubDate: "May 24 2025"
 ---
 
@@ -17,7 +17,7 @@ Euler, um grande matemático, já tinha essa ideia ao dizer:
 Essa visão está intrinsecamente relacionada à ideia de que o significado dos números emana do contexto estrutural no qual estão inseridos. Em outras palavras, é a estrutura que confere sentido ao número - e não o contrário.
 
 $$
-\Large \text{O que é um número?}
+\LARGE \text{O que é um número?}
 $$
 Euler aplicava sua concepção de número ao expor os fundamentos da Matemática de forma clara e filosófica:
 
@@ -103,7 +103,17 @@ $$
 Esse conjunto abrange todos os números que podem ser representados em uma reta contínua, sem lacunas, o que justifica o nome "reta real". Ele é a base para grande parte da matemática, especialmente na análise, geometria e aplicações em ciências naturais e engenharias.
 
 $$
-\Large \text{Proposições}
+\LARGE \text{Operações com Conjuntos}
+$$
+[TODO]
+
+$$
+\LARGE \text{Relações}
+$$
+[TODO]
+
+$$
+\LARGE \text{Proposições}
 $$
 A linguagem matemática se baseia em proposições - sentenças que afirmam algo que pode ser verdadeiro ou falso, mas nunca ambos ao mesmo tempo. Elas são a base da lógica matemática, que estuda o raciocínio formal e a validade dos argumentos.
 
@@ -112,7 +122,7 @@ A linguagem matemática se baseia em proposições - sentenças que afirmam algo
 - $\text{"−3 pertence ao conjunto dos inteiros."} \Rightarrow V$
 
 $$
-\large \text{Tipos de Proposições}
+\Large \text{Tipos de Proposições}
 $$
 As proposições podem ser classificadas em:
 
@@ -122,7 +132,7 @@ As proposições podem ser classificadas em:
     - $\text{"7 é ímpar e maior que 5."}$
 
 $$
-\large \text{Conectivos Lógicos}
+\Large \text{Conectivos Lógicos}
 $$
 
 |Conectivo|Símbolo|Leitura|Exemplo
@@ -134,7 +144,7 @@ $$
 |Bicondicional|$\leftrightarrow$|"se e somente se"|$P \leftrightarrow Q$: "P se e somente se Q"|
 
 $$
-\large \text{Classificação das Proposições}
+\Large \text{Classificação das Proposições}
 $$
 
 1. Tautologia: proposição sempre verdadeira, independentemente dos valores lógicos das sentenças envolvidas.
@@ -235,5 +245,35 @@ $$
 |V|F|V|V|
 |F|V|V|V|
 |F|F|F|F|
+
+$$
+\LARGE \text{Funções}
+$$
+[TODO]
+
+$$
+\LARGE \text{Álgebra}
+$$
+[TODO]
+
+$$
+\LARGE \text{Inequações}
+$$
+[TODO]
+
+$$
+\LARGE \text{Introdução à Geometria}
+$$
+[TODO]
+
+$$
+\LARGE \text{Introdução à Trigonometria}
+$$
+[TODO]
+
+$$
+\LARGE \text{Introdução à Estatística}
+$$
+[TODO]
 
 [^1]: Euler, Leonhard. *Elements of Algebra*. Translated by Rev. John Hewlett, B.D. F.A.S. With an Introduction by C. Truesdell, 1840. Chapter I.
