@@ -102,15 +102,63 @@ $$
 
 Esse conjunto abrange todos os números que podem ser representados em uma reta contínua, sem lacunas, o que justifica o nome "reta real". Ele é a base para grande parte da matemática, especialmente na análise, geometria e aplicações em ciências naturais e engenharias.
 
-$$
-\LARGE \text{Operações com Conjuntos}
-$$
-[TODO]
+---
 
 $$
-\LARGE \text{Relações}
+\LARGE \text{Operações entre Conjuntos}
 $$
-[TODO]
+As operações entre conjuntos formam a base da linguagem da Teoria dos Conjuntos, permitindo descrever como coleções de elementos se relacionam e se combinam. Assim como as operações aritméticas lidam com números, as operações entre conjuntos lidam com elementos e pertencimento. Elas envolvem ações como unir elementos, identificar o que há em comum, remover elementos de um conjunto em relação a outro, e observar o que está fora de um conjunto dentro de um universo maior. Essas operações são essenciais para organizar informações, resolver problemas lógicos e construir estruturas mais complexas na matemática, como funções, relações e probabilidades.
+
+Levaremos em conta as variáveis $A = \{1, 2, 3\}, B = \{3, 4, 5, 6\}$ para os exemplos.
+
+$$
+\Large \text{União}
+$$
+A união de dois conjuntos A e B é o conjunto que contém todos os elementos que estão em A, em B, ou em ambos:
+
+$$
+A \cup B = \{1, 2, 3, 4, 5, 6\}
+$$
+
+$$
+\Large \text{Interseção}
+$$
+A interseção de dois conjuntos A e B é o conjunto de elementos que estão tanto em A quanto em B:
+
+$$
+A \cap B = \{3\}
+$$
+
+$$
+\Large \text{Diferença}
+$$
+A diferença entre dois conjuntos A e B é o conjunto dos elementos que estão em A, mas não estão em B:
+
+$$
+A - B = \{1, 2\}
+$$
+
+$$
+\Large \text{Complemento}
+$$
+O complementar de um conjunto A, dentro de um conjunto universo U, é o conjunto de todos os elementos de U que não estão em A:
+
+Se $U = \{1, 2, 3, 4, 5\}$ então:
+$$
+\bar{A} = \{4, 5\} \ \text{ou} \newline
+A^{\complement} = \{4, 5\}
+$$
+
+$$
+\Large \text{Diferença Simétrica}
+$$
+A diferença simétrica entre A e B é o conjunto dos elementos que estão em A ou em B, mas não em ambos.
+
+$$
+A \bigtriangleup B = \{1, 2, 4, 5\}
+$$
+
+---
 
 $$
 \LARGE \text{Proposições}
@@ -245,6 +293,8 @@ $$
 |V|F|V|V|
 |F|V|V|V|
 |F|F|F|F|
+
+---
 
 $$
 \LARGE \text{Funções}
